@@ -82,4 +82,4 @@ If you have suggestions for improvements or feedback, feel free to connect on [L
 ## 📎 Credits
 
 Inspired by the tutorial:
-[SQL Data Analyst Portfolio Project | Like I Do in My Real Projects]((https://www.youtube.com/watch?v=2jGhQpbzHes)
+[SQL Data Analyst Portfolio Project | Like I Do in My Real Projects](https://www.youtube.com/watch?v=2jGhQpbzHes)
